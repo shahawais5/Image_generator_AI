@@ -1,0 +1,1 @@
+const apiKey="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";
